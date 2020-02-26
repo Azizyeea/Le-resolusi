@@ -1,5 +1,5 @@
 Le RESOLUSI
 - Rancang Bangun Sistem Informasi Kartu Identitas Anak menggunakan metode waterfall
 - Rancang Bangun Sistem Informasi PT.Mitsubishi PNC menggunakan metode waterfall
-- Algoritma...................
 - Studi Kasus
+- SPK algoritma
