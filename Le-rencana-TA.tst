@@ -3,7 +3,10 @@ Rencana TA
 -Algoritma
  *SPK
  *Pencarian
-  ^gambar
+  ^PDF
 -IOT
 -Studi Kasus
+ ^Disdukcapil
+ ^Mitsubishi
+-Big Data
 
